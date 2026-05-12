@@ -1,3 +1,12 @@
+MIT License — applies to original contributions in this repository
+(Colab notebook, custom fixes, and report).
+
+The TSGS codebase is subject to its own license:
+https://github.com/longxiang-ai/TSGS/blob/main/LICENSE.md
+
+PGSR components are subject to:
+https://github.com/longxiang-ai/TSGS/blob/main/LICENSE_PGSR.md
+
 MIT License
 
 Copyright (c) 2026 Raghav_IITH
