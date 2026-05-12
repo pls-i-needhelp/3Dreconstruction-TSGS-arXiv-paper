@@ -9,7 +9,7 @@ Reproduction and evaluation of TSGS (ACM MM 2025) — Transparent Surface Gaussi
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2504.12799)
 [![Original Repo](https://img.shields.io/badge/Original-GitHub-black)](https://github.com/longxiang-ai/TSGS)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/drive/1qaoBGIbEZL-DbdakJSjS0T84J5_LskAo#scrollTo=lwAC4IWUeVnj)](YOUR_COLAB_LINK_HERE)
 
 ---
 
